@@ -1,0 +1,14 @@
+# Database settings.
+database:
+
+  # the name of your JDBC driver
+  driverClass: com.mysql.jdbc.Driver
+
+  # the username
+  user: root
+
+  # the password
+  password: montana11/15
+
+  # the JDBC URL
+  url: jdbc:mysql://localhost:3306/team_manager
